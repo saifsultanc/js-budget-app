@@ -1,10 +1,8 @@
-# shopping cart project
+# budget maintaining app
 
-A template Sweet Shop idea with Vanilla JS and JQuery applied to achieve the functionality.
-Maintain your shopping cart in an elegant way!
+Developed with VanillaJS. Maintain your expenses to ensure you never do negative!
 
 Other stuff used:
 
 - Bootstrap
 - Font Awesome
-- Sweet Alert
