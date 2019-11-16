@@ -1,0 +1,94 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "Budget App",
+	"scope" : "/",
+	"display" : "standalone",
+	"start_url" : "https://js-budget-manager.netlify.com/",
+	"short_name" : "Budget App",
+	"theme_color" : "transparent",
+	"description" : "",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "/budget icon.png",
+			"sizes": "44x44"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "48x48"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "1240x600"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "300x300"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "150x150"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "88x88"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "24x24"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "50x50"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "620x300"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "36x36"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "1024x1024"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "180x180"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "152x152"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "/budget icon.png",
+			"sizes": "76x76"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
